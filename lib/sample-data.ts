@@ -94,7 +94,7 @@ export const sampleProductsReviews: Record<string, Product> = {
         reviewer: "Maria S.",
         stars: 5,
         review:
-          "Best home improvement we've made! Compact design freed up space in our utility room. The digital display is clear and adjusting temperature is easy. Highly recommend.",
+          "Best home improvement we've made!!!! Compact design freed up space in our utility room. The digital display is clear and adjusting temperature is easy. Highly recommend.",
         date: "2025-11-30T13:25:00Z",
       },
     ],
